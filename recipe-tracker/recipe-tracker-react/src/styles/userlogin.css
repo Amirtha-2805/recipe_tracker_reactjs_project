@@ -1,0 +1,22 @@
+.userlogin{
+    /* border: 1px solid black; */
+    /* margin-top: 50px; */
+    background: linear-gradient(#0c0e1d,#2b2c28);
+    background-size: cover;
+    height: 100vh;
+    
+    /* width:50% */
+}
+.ulogin{
+    margin-left: 40px;
+    color: white;
+}
+.loginbtn{
+    margin-left: 90px;
+}
+.user-login-label{
+    color:white
+}
+.user-para{
+    color:white
+}

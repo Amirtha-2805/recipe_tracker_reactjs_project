@@ -1,0 +1,10 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+}
+.me-auto{
+    margin-left: 700px;
+}
+.register{
+    margin-right: 5px;
+}
